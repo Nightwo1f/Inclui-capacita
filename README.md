@@ -2,6 +2,10 @@
 
 Plataforma de conexão entre pessoas com deficiência e oportunidades de trabalho no estado do Pará.
 
+## 🌐 Site
+
+O site está hospedado no GitHub Pages e pode ser acessado em: [https://nightwo1f.github.io/Inclui-capacita](https://nightwo1f.github.io/Inclui-capacita)
+
 ## 🚀 Funcionalidades
 
 - Cadastro de candidatos PcD
